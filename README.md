@@ -1,5 +1,10 @@
 # DSP Image Processing Toolkit
 
+[![View on nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/preeti-chauhan/dsp-image-processing/blob/main/dsp_image_processing.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/preeti-chauhan/dsp-image-processing/blob/main/dsp_image_processing.ipynb)
+
+> **GitHub can't render the notebook?** Click one of the badges above to view or run it instantly.
+
 A Jupyter notebook covering core 2D digital signal processing techniques applied to images.
 
 ## Topics Covered
